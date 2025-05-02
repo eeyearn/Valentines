@@ -1,38 +1,40 @@
-# 🥰 Be My Valentine? 🥰
+# 💘 Will You Be My Valentine? 💘
 
-![Project Image](https://i.imgur.com/8q884zI.png)
+![Cover](./ValentineCover.png)
 
-Welcome to the most adorable project you've ever seen! This is a special React application designed to ask that special someone: "Will you be my Valentine?".
+Hi there! This is a sweet little project I built to ask a very special person a very important question — **"Will you be my Valentine?"** ❤️
 
-## 💖 What's Inside? 💖
-[Link to site](https://formyvalentine.netlify.app)
-
-This project is built with love using React and Vite. It features a cute and interactive UI that playfully nudges the user towards saying "Yes" to being your Valentine.
-
-## 🎁 Features 🎁
-
-- Cute and playful animations
-- Interactive buttons that respond to user interaction
-- Lovely images and heartwarming messages
-
-## 🚀 Getting Started 🚀
-
-To get started with this project, follow these steps:
-
-1. Clone the repository
-2. Install the dependencies with `npm/pnpm/bun install`
-3. Start the development server with `npm/pnpm/bun run dev`
-
-Now you're ready to ask the big question!
-
-## 💕 Made with Love 💕
-
-This project was made with love by [Anish](https://github.com/xeven777). Feel free to use it to ask your own special someone to be your Valentine!
-
-## 💌 Feedback and Contributions 💌
-
-Feedback and contributions are always welcome! Feel free to open an issue or submit a pull request.
-
-Happy Valentine's Day! 💘
 ---
-<img src="https://widgetbite.com/stats/Xeven777" alt="watching_count" />
+
+## 🌹 About This Project
+
+This is a light-hearted and fun interactive React app powered by **Vite**. It’s designed to be charming and a bit cheeky — just enough to bring a smile (and hopefully a “yes!” 😊).
+
+---
+
+## ✨ Features
+
+- Wholesome and playful UI  
+- Adorable animations and styling  
+- Sneaky buttons that make saying "no" a little tricky 😉  
+- A joyful, personalized Valentine's experience
+
+---
+
+## 🛠️ Getting Started
+
+Want to run or remix it?
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
+2. Install dependencies:
+   npm install
+3. Run the development server:
+   npm run dev
+
+
+## 🙏 Acknowledgements
+
+This project is inspired by [Anish (xeven777)](https://github.com/xeven777)’s original [Valentine app](https://github.com/xeven777/Valentines-2024).  
+Huge thanks for the charming idea — I customized it to make it my own 💝
