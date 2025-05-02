@@ -29,8 +29,10 @@ Want to run or remix it?
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
 2. Install dependencies:
+   ```bash
    npm install
 3. Run the development server:
+   ```bash
    npm run dev
 
 
